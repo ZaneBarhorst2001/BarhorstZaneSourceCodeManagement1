@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello, Universe!\n";
     return 0;
 }
 
